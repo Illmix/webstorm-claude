@@ -1,0 +1,20 @@
+nfc
+
+interface $NAME$Props {
+
+}
+
+export default function $NAME$({}: $NAME$Props) {
+  return (
+    <div>
+      $END$
+    </div>
+  );
+}
+
+NAME fileNameWithoutExtension()
+
+Claude Code
+
+curl -fsSL https://claude.ai/install.sh | bash
+
